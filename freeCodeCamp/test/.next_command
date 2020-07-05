@@ -129,3 +129,9 @@ more README.md
 cd ..
 ls --color=auto
 mv website website-boilerplate
+ls --color=auto
+find
+cd website-boilerplate
+ls --color=auto
+cd ..
+ls --color=auto

@@ -234,3 +234,11 @@ git add .vscode/settings.json
 git add freeCodeCamp/.bashrc
 git add freeCodeCamp/test/.cwd
 git add freeCodeCamp/test/.next_command
+git add website-boilerplate
+git add toms-website
+git status
+git commit
+git push origin main
+git pull origin main
+git status
+git add .

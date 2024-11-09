@@ -135,3 +135,5 @@ cd website-boilerplate
 ls --color=auto
 cd ..
 ls --color=auto
+copy --help
+cp --help

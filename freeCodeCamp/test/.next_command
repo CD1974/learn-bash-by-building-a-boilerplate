@@ -143,3 +143,8 @@ cd toms-website
 ls --color=auto
 cd ..
 ls --color=auto
+find
+cd toms-website
+find
+cd ..
+find toms-website

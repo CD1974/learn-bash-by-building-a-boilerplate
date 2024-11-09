@@ -1,0 +1,11 @@
+ls --color=auto
+mkdir fonts
+ls --color=auto
+rm fonts
+rmdir fonts
+cd /workspace/project/website
+ls --color=auto
+mkdir fonts
+ls --color=auto
+find
+rm --help

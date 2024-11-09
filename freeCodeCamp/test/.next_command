@@ -139,3 +139,7 @@ copy --help
 cp --help
 cp -r boilerplate toms-website
 cp -r website-boilerplate toms-website
+cd toms-website
+ls --color=auto
+cd ..
+ls --color=auto

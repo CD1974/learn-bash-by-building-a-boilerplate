@@ -137,3 +137,5 @@ cd ..
 ls --color=auto
 copy --help
 cp --help
+cp -r boilerplate toms-website
+cp -r website-boilerplate toms-website

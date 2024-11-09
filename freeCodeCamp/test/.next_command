@@ -9,3 +9,7 @@ mkdir fonts
 ls --color=auto
 find
 rm --help
+ls --color=auto
+rmdir fonts
+mkdir fonts
+rm -r fonts

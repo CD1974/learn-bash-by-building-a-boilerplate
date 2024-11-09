@@ -118,3 +118,4 @@ touch index.html
 rm index,html
 ls --color=auto
 echo Yay!
+echo I finished the boilerplate!

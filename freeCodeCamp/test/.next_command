@@ -114,3 +114,7 @@ touch package.json
 touch server.js
 touch README.md
 ls --color=auto
+touch index.html
+rm index,html
+ls --color=auto
+echo Yay!
